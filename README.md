@@ -46,7 +46,7 @@ A posição esquizoparanoide é a configuração primordial do psiquismo humano,
 
 Melanie Klein (1882–1960) foi uma psicanalista austríaca-britânica de origem judaica, reconhecida como uma das figuras mais influentes e revolucionárias da história da psicanálise pós-freudiana. Ela é celebrada como a pioneira da psicanálise infantil e a principal fundadora da Teoria das Relações Objetais.
 
-Principais conceitos aprendidos:
+  Principais conceitos aprendidos:
 
 Teoria das Relações Objetais
 
