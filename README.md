@@ -31,20 +31,41 @@ A seguir uma breve parte das respostas de cada pergunta:
 Obtive respostas coerentes sem alucinações que ajudam a aumentar o conhecimento sobre a Psicanalista Melanie Klein.
 
 Miniguia de Estudo
+
 Resumos estruturados do assunto:
 
-Explique de forma resumida a posição esquizoparanoide
+Explique de forma resumida a posição esquizoparanoide 
 A posição esquizoparanoide é a configuração primordial do psiquismo humano, predominante nos primeiros três a quatro meses de vida. Melanie Klein utiliza o termo "posição" em vez de "fase" para enfatizar que não se trata de uma etapa que o indivíduo supera definitivamente, mas de uma constelação dinâmica de ansiedades, defesas e relações de objeto que permanece ativa e pode ser revisitada ao longo de toda a vida, especialmente em momentos de estresse ou trauma. A principal função desta posição é a autopreservação do ego rudimentar e frágil do bebê.
 
-Quem foi Melanie Klein?
+Quem foi Melanie Klein? 
 Melanie Klein (1882–1960) foi uma psicanalista austríaca-britânica de origem judaica, reconhecida como uma das figuras mais influentes e revolucionárias da história da psicanálise pós-freudiana. Ela é celebrada como a pioneira da psicanálise infantil e a principal fundadora da Teoria das Relações Objetais.
 
 Principais conceitos aprendidos:
+
 Teoria das Relações Objetais
+
 Fantasia Inconsciente (Phantasy)
+
 Posições Psíquicas (Esquizo-paranoide e Depressiva)
+
 Mecanismos de Defesa Primitivos
+
 Inveja e Gratidão
+
 Técnica do Brincar
+
 Superego e Édipo Precoces
 
+Prompts reutilizáveis:
+
+"Quem foi Melanie Klein?" 
+
+"Como Melanie Klein mudo a psicanalise?"
+
+"Como a técnica do brincar revolucionou a psicanálise infantil?"
+
+"Como funciona a técnica do brincar?"
+
+"Explique de formas mais profunda o que é a identificação projetiva"
+
+"Com quantos anos o Superego se torna algo precoce?"
